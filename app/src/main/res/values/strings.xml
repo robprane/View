@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">View</string>
+
+    <string name="notice_exit">Press back again to exit</string>
+
+    <string name="url">http://apple.com/</string>
+
+    <string name="sorry">The service is not available in your country.</string>
+
+</resources>
